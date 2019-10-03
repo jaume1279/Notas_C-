@@ -1,0 +1,6 @@
+D:\C#Projects\GestionNotas\GestionNotas\GestionNotas\bin\Debug\GestionNotas.exe.config
+D:\C#Projects\GestionNotas\GestionNotas\GestionNotas\bin\Debug\GestionNotas.exe
+D:\C#Projects\GestionNotas\GestionNotas\GestionNotas\bin\Debug\GestionNotas.pdb
+D:\C#Projects\GestionNotas\GestionNotas\GestionNotas\obj\Debug\GestionNotas.csprojAssemblyReference.cache
+D:\C#Projects\GestionNotas\GestionNotas\GestionNotas\obj\Debug\GestionNotas.exe
+D:\C#Projects\GestionNotas\GestionNotas\GestionNotas\obj\Debug\GestionNotas.pdb
